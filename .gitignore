@@ -1,0 +1,6 @@
+devices.yaml
+*.pyc
+__pycache__/
+backups/
+.venv/
+.env

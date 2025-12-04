@@ -1,0 +1,8 @@
+# devices.example.yaml - example only. Copy to devices.yaml and add real IPs/creds locally.
+devices:
+  - name: R1
+    device_type: cisco_ios
+    host: 192.168.1.10
+    username: admin
+    password: cisco
+    secret: cisco
